@@ -1,0 +1,48 @@
+
+.container {
+  text-align: center;
+  background-color: #fafafa;
+  padding: 20px;
+  margin: 30px auto;
+  width: 80%;
+  border-radius: 10px;
+}
+
+h2 {
+  color: black;
+}
+
+h3 {
+  color: green;
+  font-size: 25px;
+}
+
+p {
+  color: gray;
+  font-size: 12px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.increment {
+  background-color: #00b050;
+  color: white;
+}
+
+.decrement {
+  background-color: #ff4040;
+  color: white;
+}
+
+.reset {
+  background-color: white;
+  border: 1px solid #ddd;
+  width: 95%;
+  color: gray;
+}
